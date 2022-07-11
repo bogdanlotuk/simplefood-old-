@@ -10,7 +10,6 @@
 
   &__subscribe {
     max-width: 200px;
-
   }
 
   &__logo {
@@ -22,14 +21,7 @@
     width: 100%;
     margin-bottom: 90px;
     display: flex;
-    justify-content: space-between;
-    
-  }
-
-  &__list {
-    // &:not(:last-child){
-    //   margin-right: 70px;
-    // }
+    justify-content: space-between;    
   }
 
   &__item {
@@ -60,8 +52,6 @@
       text-shadow: 2px 2px 5px rgba(49, 53, 43, 0.5);
     }
   }
-
-  &__address {}
 
   &__address-list {
     margin-bottom: 15px;
@@ -106,8 +96,6 @@
     border-top: 1px solid rgba($gray, 0.2)
   }
 
-  &__copyright {
-  }
 }
 
 .form {

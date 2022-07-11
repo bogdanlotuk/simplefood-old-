@@ -33,7 +33,6 @@
   }
 
   &__text {
-    font-weight: 400;
     font-size: 20px;
     margin-bottom: 19px;
   }
@@ -55,11 +54,6 @@
   justify-content: space-between;
   align-items: center;
   padding:57px 0 57px 5px;
-}
-
-.logo {
-
-  &__img {}
 }
 
 .menu {
@@ -90,7 +84,6 @@
       outline: 2px solid transparent;
       text-shadow: 2px 2px 5px rgba(49, 53, 43, 0.5);
     }
-
   }
 
 }

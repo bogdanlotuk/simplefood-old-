@@ -1,5 +1,5 @@
 $(function() {
 
-	// Custom JS
+	var mixer = mixitup('.category__gallery');
 
 });

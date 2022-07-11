@@ -1,3 +1,4 @@
+@import "fonts";
 @import "vars";
 
 html {
@@ -125,7 +126,6 @@ body {
   letter-spacing: 0.3px;
   border: none;
   border-radius: 6px;
-  // cursor: pointer;
 }
 
 .btn {
@@ -182,5 +182,3 @@ body {
 @import "header";
 @import "category";
 @import "footer";
-
-@import "media"; // in the very end
