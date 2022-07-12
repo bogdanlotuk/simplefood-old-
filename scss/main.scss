@@ -112,7 +112,6 @@ body {
   line-height: 1.3;
   letter-spacing: -0.4px;
   color: $darkBlue-900;
-  text-transform: uppercase;
 }
 
 .btn,
@@ -181,4 +180,6 @@ body {
 
 @import "header";
 @import "category";
+@import "delivery";
+@import "restaurants";
 @import "footer";
